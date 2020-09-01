@@ -38,5 +38,5 @@ https://github.com/argoproj/argo-cd/blob/master/docs/developer-guide/running-loc
 
 You will probably hit this issue and need this fix/workaround.   https://github.com/argoproj/argo-cd/pull/4210
 
-
-
+## Video
+https://youtu.be/oBmvD2E5A3c
