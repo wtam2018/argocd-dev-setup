@@ -23,13 +23,18 @@ sudo sed -i 's/FirewallBackend=.*/FirewallBackend=iptables/g' /etc/firewalld/fir
 
 ## Install Microk8s
 
-Following this steps to install microk8s.
+### On Linux
+Follow this steps to install microk8s.
 https://snapcraft.io/install/microk8s/fedora
 
 Microsk8s is started after the installation is complete.  You can use `kubectl` to work with your cluster
 
 Here is the documentation on Microk8s using `kubectl`
 https://microk8s.io/docs/working-with-kubectl
+
+### On MacOS
+Follow this steps to install microk8s
+https://microk8s.io/docs/install-alternatives#heading--macos
 
 ## Build and run argocd locally
 
